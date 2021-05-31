@@ -29,6 +29,3 @@ $string['simplesearch:addinstance'] = 'Add a new simplesearch block';
 $string['simplesearch:myaddinstance'] = 'Add a new simplesearch block to Dashboard';
 $string['pluginname'] = 'simplesearch';
 $string['titel'] = 'Course search';
-
-
-// $string['simplesearch'] = 'Simplesearch Block';
